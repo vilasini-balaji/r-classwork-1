@@ -102,9 +102,9 @@ Error: object 'onth.abb' not found
 > marks <- c(22,23,27)
 > marks
 [1] 22 23 27
-> mrks <- c(24,25,26)
-> mrks
+> Marks <- c(24,25,26)
+> Marks
 [1] 24 25 26
-> score <- c(marks,mrks,28,29)
+> score <- c(marks,Marks,28,29)
 > score
 [1] 22 23 27 24 25 26 28 29
